@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd0a1222.css",
+    "main.js": "/static/js/main.9eb29fa8.js",
+    "static/media/offline.png": "/static/media/offline.510cf0483c9f44371f70.png",
+    "static/media/fortnite-green.png": "/static/media/fortnite-green.e219d3d5fa8fbf1446a3.png",
+    "static/media/apex.jpeg": "/static/media/apex.35081f34cff8cd9762a2.jpeg",
+    "static/media/gta5.jpeg": "/static/media/gta5.0475513009c0a87999ec.jpeg",
+    "static/media/logo.png": "/static/media/logo.279b1c3ecb260c20ff08.png",
+    "static/media/warzone-green.avif": "/static/media/warzone-green.4326edcb9f67409b0de3.avif",
+    "static/media/bopszoms.jpeg": "/static/media/bopszoms.cf32c4f87e2a8abd1f18.jpeg",
+    "index.html": "/index.html",
+    "main.cd0a1222.css.map": "/static/css/main.cd0a1222.css.map",
+    "main.9eb29fa8.js.map": "/static/js/main.9eb29fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0a1222.css",
+    "static/js/main.9eb29fa8.js"
+  ]
+}
