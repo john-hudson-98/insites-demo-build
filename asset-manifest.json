@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/insites-demo-build/static/css/main.cd0a1222.css",
-    "main.js": "/insites-demo-build/static/js/main.5baf3114.js",
+    "main.js": "/insites-demo-build/static/js/main.bc6ca430.js",
     "static/media/offline.png": "/insites-demo-build/static/media/offline.510cf0483c9f44371f70.png",
     "static/media/fortnite-green.png": "/insites-demo-build/static/media/fortnite-green.e219d3d5fa8fbf1446a3.png",
     "static/media/apex.jpeg": "/insites-demo-build/static/media/apex.35081f34cff8cd9762a2.jpeg",
@@ -11,10 +11,10 @@
     "static/media/bopszoms.jpeg": "/insites-demo-build/static/media/bopszoms.cf32c4f87e2a8abd1f18.jpeg",
     "index.html": "/insites-demo-build/index.html",
     "main.cd0a1222.css.map": "/insites-demo-build/static/css/main.cd0a1222.css.map",
-    "main.5baf3114.js.map": "/insites-demo-build/static/js/main.5baf3114.js.map"
+    "main.bc6ca430.js.map": "/insites-demo-build/static/js/main.bc6ca430.js.map"
   },
   "entrypoints": [
     "static/css/main.cd0a1222.css",
-    "static/js/main.5baf3114.js"
+    "static/js/main.bc6ca430.js"
   ]
 }
