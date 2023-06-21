@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/insites-demo-build/static/css/main.cd0a1222.css",
-    "main.js": "/insites-demo-build/static/js/main.a565fb98.js",
+    "main.css": "/insites-demo-build/static/css/main.3568c67a.css",
+    "main.js": "/insites-demo-build/static/js/main.224e42e7.js",
     "static/media/offline.png": "/insites-demo-build/static/media/offline.510cf0483c9f44371f70.png",
+    "static/media/stream.jpeg": "/insites-demo-build/static/media/stream.735a745c665938f5cf80.jpeg",
     "static/media/fortnite-green.png": "/insites-demo-build/static/media/fortnite-green.e219d3d5fa8fbf1446a3.png",
     "static/media/apex.jpeg": "/insites-demo-build/static/media/apex.35081f34cff8cd9762a2.jpeg",
+    "static/media/nuketown.png": "/insites-demo-build/static/media/nuketown.2af43cc3a6bb208e6edc.png",
     "static/media/gta5.jpeg": "/insites-demo-build/static/media/gta5.0475513009c0a87999ec.jpeg",
+    "static/media/overlay.png": "/insites-demo-build/static/media/overlay.7910846af2f3109c49e5.png",
     "static/media/logo.png": "/insites-demo-build/static/media/logo.279b1c3ecb260c20ff08.png",
     "static/media/warzone-green.avif": "/insites-demo-build/static/media/warzone-green.4326edcb9f67409b0de3.avif",
+    "static/media/grid.png": "/insites-demo-build/static/media/grid.5e1d352ef83c71b93216.png",
     "static/media/bopszoms.jpeg": "/insites-demo-build/static/media/bopszoms.cf32c4f87e2a8abd1f18.jpeg",
     "index.html": "/insites-demo-build/index.html",
-    "main.cd0a1222.css.map": "/insites-demo-build/static/css/main.cd0a1222.css.map",
-    "main.a565fb98.js.map": "/insites-demo-build/static/js/main.a565fb98.js.map"
+    "main.3568c67a.css.map": "/insites-demo-build/static/css/main.3568c67a.css.map",
+    "main.224e42e7.js.map": "/insites-demo-build/static/js/main.224e42e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd0a1222.css",
-    "static/js/main.a565fb98.js"
+    "static/css/main.3568c67a.css",
+    "static/js/main.224e42e7.js"
   ]
 }
