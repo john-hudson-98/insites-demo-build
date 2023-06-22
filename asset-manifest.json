@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/insites-demo-build/static/css/main.3568c67a.css",
-    "main.js": "/insites-demo-build/static/js/main.28473530.js",
-    "static/media/offline.png": "/insites-demo-build/static/media/offline.510cf0483c9f44371f70.png",
+    "main.css": "/insites-demo-build/static/css/main.7eb19762.css",
+    "main.js": "/insites-demo-build/static/js/main.2535cbe3.js",
     "static/media/stream.jpeg": "/insites-demo-build/static/media/stream.735a745c665938f5cf80.jpeg",
     "static/media/fortnite-green.png": "/insites-demo-build/static/media/fortnite-green.e219d3d5fa8fbf1446a3.png",
     "static/media/apex.jpeg": "/insites-demo-build/static/media/apex.35081f34cff8cd9762a2.jpeg",
@@ -14,11 +13,11 @@
     "static/media/grid.png": "/insites-demo-build/static/media/grid.5e1d352ef83c71b93216.png",
     "static/media/bopszoms.jpeg": "/insites-demo-build/static/media/bopszoms.cf32c4f87e2a8abd1f18.jpeg",
     "index.html": "/insites-demo-build/index.html",
-    "main.3568c67a.css.map": "/insites-demo-build/static/css/main.3568c67a.css.map",
-    "main.28473530.js.map": "/insites-demo-build/static/js/main.28473530.js.map"
+    "main.7eb19762.css.map": "/insites-demo-build/static/css/main.7eb19762.css.map",
+    "main.2535cbe3.js.map": "/insites-demo-build/static/js/main.2535cbe3.js.map"
   },
   "entrypoints": [
-    "static/css/main.3568c67a.css",
-    "static/js/main.28473530.js"
+    "static/css/main.7eb19762.css",
+    "static/js/main.2535cbe3.js"
   ]
 }
